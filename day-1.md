@@ -1,6 +1,6 @@
 # Daily Learning
-<h1> Daily learning </h1>
-<h2>Morning Planing</h2>
+# Daily learning
+## Morning Planing
 
-<h2> Review </h2>
+## Review
 
